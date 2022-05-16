@@ -11,6 +11,7 @@ public class Test62 {
         System.out.println("UpdateUser");
         System.out.println("AddUser");
         System.out.println("Test31");
+        System.out.println("Test32");
     }
 
 }
