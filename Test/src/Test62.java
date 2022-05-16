@@ -12,6 +12,7 @@ public class Test62 {
         System.out.println("AddUser");
         System.out.println("Add Item");
         System.out.println("AddCat");
+        System.out.println("AddCat2");
     }
 
 }
