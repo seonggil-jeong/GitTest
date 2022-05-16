@@ -3,7 +3,7 @@ public class Test62 {
         System.out.println("Test62"); // Reset
         System.out.println("Test10");
         System.out.println("Test11");
-        System.out.println("GitFlow Start!");
+        System.out.println("GitFlow Start");
     }
 
 }
