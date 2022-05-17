@@ -19,6 +19,7 @@ public class Test62 {
         System.out.println("Test 32 End");
         System.out.println("Test 35 End");
         System.out.println("Test # 38");
+        System.out.println("Long");
     }
 
 }
