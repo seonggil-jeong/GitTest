@@ -23,6 +23,7 @@ public class Test62 {
         System.out.println("Long");
         System.out.println("Feat");
         System.out.println("Long");
+        System.out.println("Feat");
     }
 
 }
